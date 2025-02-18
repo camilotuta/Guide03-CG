@@ -75,12 +75,6 @@ El código se organiza en varias funciones clave:
 - **Actualización del Movimiento (`update_movement`):** Realiza el movimiento suave del gato hacia la siguiente celda en la trayectoria.
 - **Pantalla de Game Over (`show_game_over_screen`):** Muestra el resultado final, indicando si ganaste o perdiste, y permite reiniciar o salir del juego.
 
-## Créditos y Licencia
-
-Este juego fue creado como proyecto en Python utilizando Pygame. Asegúrate de que la carpeta `images` se encuentre en el mismo directorio que `main.py` para que el juego funcione correctamente.
-
-**Licencia:** [Especifica la licencia aquí, por ejemplo, MIT License]
-
 ---
 
 ¡Disfruta atrapando a Longcat y pon a prueba tus habilidades estratégicas!
