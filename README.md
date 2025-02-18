@@ -77,4 +77,4 @@ El código se organiza en varias funciones clave:
 
 ---
 
-¡Disfruta atrapando a Longcat y pon a prueba tus habilidades estratégicas!
+¡Disfruta jugando a Longcat y pon a prueba tus habilidades estratégicas!
